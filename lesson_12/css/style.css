@@ -1,0 +1,78 @@
+body {
+	font-size: 24px;
+}
+
+.header {
+	padding: 70px 0;
+}
+
+.header-title {
+	margin: 70px auto;
+}
+
+.header-title span {
+	display: block;
+	line-height: 1.5;
+}
+
+.video {
+	margin-bottom: 50px;
+}
+
+.form {
+	border: 5px solid #3c3cdd;
+	padding: 10px 20px;
+}
+
+.form-title {
+	font-size: 20px;
+	font-weight: 900;
+	margin: 30px auto;
+}
+
+.form input {
+	margin-bottom: 10px;
+}
+
+.form-btn {
+	background-color: #3c3cdd;
+	color: #fff;
+	font-size: 18px;
+	height: 60px;
+	margin-bottom: 20px;
+}
+
+.feature-title {
+	font-weight: 900;
+}
+
+.feature {
+	margin: 60px;
+}
+
+.feature p {
+	margin-top: 15px;
+}
+
+.feature-text {
+	font-size: 16px;
+}
+.button {
+	align-items: center;
+}
+
+.feature-btn {
+	margin-top: 60px;
+}
+
+.clients-title {
+	font-weight: 900;
+}
+
+.our-clients {
+	margin: 100px 0;
+}
+
+.clients-information-second {
+	margin-top: 50px;
+}
