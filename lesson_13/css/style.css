@@ -1,0 +1,33 @@
+.header {
+	background-color: #ebf4f4;
+
+
+}
+
+.form-text {
+	text-align: center;
+	border: 1px solid #aeaeae;
+	background-color: #01bdbd;
+	font-size: 15px;
+	font-weight: 900;
+	padding: 5px;
+}
+
+.form {
+	margin: 150px 0;
+	padding: 40px 35px;
+	display: inline-block;
+	border: 1px solid #aeaeae;
+
+}
+.form input {
+	display: block;
+	margin-bottom: 29px;
+	background-color: #ebf4f4;
+}
+
+.form .btn-header {
+	background-color: #01bdbd;
+	font-size: 16px;
+	font-weight: 900;
+}
