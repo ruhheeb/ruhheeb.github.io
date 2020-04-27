@@ -36,3 +36,7 @@
 [Урок 22](https://ruhheeb.github.io/lesson_22/ "Моя готовая домашка") - Верстка всплывающих окон на сайте.
 
 
+[Урок 23](https://ruhheeb.github.io/lesson_23/Collapse/ "Моя готовая домашка") - Аккордеоны
+
+
+[Урок 23](https://ruhheeb.github.io/lesson_23/Tabs/ "Моя готовая домашка") - Табы
