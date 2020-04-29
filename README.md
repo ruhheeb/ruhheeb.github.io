@@ -40,3 +40,9 @@
 
 
 [Урок 23](https://ruhheeb.github.io/lesson_23/Tabs/ "Моя готовая домашка") - Табы
+
+
+[Урок 24](https://ruhheeb.github.io/lesson_24/ "Моя готовая домашка") - Верстка блока с ценами
+
+
+
