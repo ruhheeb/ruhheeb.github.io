@@ -45,4 +45,6 @@
 [Урок 24](https://ruhheeb.github.io/lesson_24/ "Моя готовая домашка") - Верстка блока с ценами
 
 
+[Урок 25](https://ruhheeb.github.io/lesson_25/ "Моя готовая домашка") - Анимация на CSS3.
+
 
