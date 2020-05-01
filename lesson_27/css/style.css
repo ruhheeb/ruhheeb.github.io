@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.video {
+	min-height: 100vh;
+	width: 100%;
+	text-align: center;
+	display: table;
+}
+.wrap-block {
+	display: table-cell;
+	vertical-align: middle;
+	color: #fff;
+}
