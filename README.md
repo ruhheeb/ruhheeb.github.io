@@ -57,6 +57,9 @@
 [Урок 28](https://ruhheeb.github.io/lesson_28/ "Моя готовая домашка") - Доверстали блок с отзывами
 
 
-[Урок 29](https://ruhheeb.github.io/lesson_29/parallax/ "Моя готовая домашка") - Parallax на сайте
+[Урок 29](https://ruhheeb.github.io/lesson_29/parallax/ "Моя готовая домашка") - Parallax на сайте.
+
+
+[Урок 30](https://ruhheeb.github.io/lesson_30/rellax/ "Моя готовая домашка") - Rellax на сайте.
 
 
