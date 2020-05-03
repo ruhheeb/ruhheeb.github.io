@@ -63,3 +63,6 @@
 [Урок 30](https://ruhheeb.github.io/lesson_30/rellax/ "Моя готовая домашка") - Rellax на сайте.
 
 
+[Урок 31](https://ruhheeb.github.io/lesson_31/ "Моя готовая домашка") - Верстаем схему работы и все включено
+
+
