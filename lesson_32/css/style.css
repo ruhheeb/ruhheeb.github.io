@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.contacts {
+	position: absolute;
+	bottom: -50%;
+	height: 450px;
+	transform: translateY(10%);
+	padding: 5rem 7rem;
+	background-color: #c60b0b;
+	color: #fff;
+	text-align: center;
+}
+.contacts, h1 {
+	margin-bottom: 3rem;
+}
+.media {
+	line-height: 1.3;
+}
+.footer-security {
+	text-align: center;
+	line-height: 1.3;
+}
+.footer-adress {
+	line-height: 1.4;
+}
+.footer-adress strong {
+	font-size: 1.3rem;
+}
